@@ -11,7 +11,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Handler implements RequestHandler<APIGatewayProxyRequestEvent, APIGatewayProxyResponseEvent> {
-    // testeeeeeeeeee
+    // testando com maven
     // Gson é uma biblioteca para converter objetos Java para JSON e vice-versa.
     private static final Gson gson = new Gson();
 
